@@ -10,5 +10,5 @@ In this work, we compare five frameworks for continual UDA. Three of them use st
 Our experiments delivered two results. (1) Even though using better style transfer algorithms, the two new frameworks $\textrm{C-WCT}^2$ and C-CMD did not achieve better performance than the established CACE framework. As both $\textrm{C-WCT}^2$  and C-CMD additionally suffer from limitations in real-world application, we consider CACE the superior method. (2) Input-space alignment (CACE) delivered superior results than output-space alignment (ETM, MuHDi). In particular, both output-space-aligned frameworks have difficulties with continual learning and are not able to sufficiently prevent forgetting when adapting to new environments.
 
 ## Repository Structure
-- Thesis
-- Presentation
+- [Thesis](./Thesis.pdf)
+- [Presentation](./Presentation_Tim_Lindenau.pdf)
